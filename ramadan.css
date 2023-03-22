@@ -303,12 +303,7 @@
       font-size: larger;
       text-align: center;
       word-spacing: 4px;
-      -webkit-animation-name: routate;
-      -webkit-animation-duration: 9s;
-      -webkit-animation-iteration-count: infinite;
-      animation-name: routate;
-      animation-duration: 10s;
-      animation-iteration-count: infinite;
+    
   }
   .ramadan-karim{
       padding-bottom: 30px;
